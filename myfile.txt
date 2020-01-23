@@ -1,4 +1,2 @@
 Hello
-Branch Update
-
 This is from master and about to cause conflict
