@@ -1,2 +1,2 @@
 Hello
-This is from master and about to cause conflict
+Hello update
