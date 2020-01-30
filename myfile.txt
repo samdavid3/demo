@@ -1,3 +1,2 @@
 Hello
-Hello update
 Conflicting change from master
